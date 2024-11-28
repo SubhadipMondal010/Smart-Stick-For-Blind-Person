@@ -1,1 +1,5 @@
-
+#Features
+1. By using those ultrasonic sensors the obstacles can be easily detected and give a feedback through the buzzer.
+2. The rain sensor will detect potholes which are filled with water our mud and any wet surface.
+3. The push button which is used as a "Panic Button" , whenever it will be pressed the person's current location 
+will be sent to hi/her gaurdian through the GPS and GSM module.
